@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+@font-face {
+	font-family: "larsseit";
+	src: url("../fonts/larsseit/Larsseit.woff2") format("woff2"), url("../fonts/larsseit/Larsseit.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "larsseit";
+	src: url("../fonts/larsseit/Larsseit-Medium.woff2") format("woff2"), url("../fonts/larsseit/Larsseit-Medium.woff") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: "larsseit";
+	src: url("../fonts/larsseit/Larsseit-Bold.woff2") format("woff2"), url("../fonts/larsseit/Larsseit-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+
+body{
+	font-family: "larsseit";
+	font-weight: 700;
+}
+
+title{
+	font-family: ;
+}
+

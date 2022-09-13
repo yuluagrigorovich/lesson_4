@@ -1,0 +1,61 @@
+/* подключение шрифтов*/
+/* делать в самом верху*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+@font-face {
+	font-family: "Larsseit";
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit.woff2") format("woff2"), url(../fonts/Larsseit.woff) format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larsseit";
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url(../fonts/Larsseit-Medium.woff) format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larsseit";
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Bold.woff2") format("woff2"), url(../fonts/Larsseit-Bold.woff) format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+
+body{
+	font-family: "Roboto";
+	font-weight: 400;
+}
+
+.title{
+	font-family: "Larsseit";
+	font-weight: 900;
+}
+
+.text{
+	color:red;
+}
+
+p{
+	color:red;
+}
+
+p{
+	color:green;
+}
+
+a{
+	color: brown;
+}
